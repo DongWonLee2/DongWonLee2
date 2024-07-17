@@ -5,6 +5,7 @@
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />&nbsp
   <img src="https://img.shields.io/badge/C-A8B9CC.svg?style=for-the-badge&logo=c&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/C%23-000000.svg?style=for-the-badge&logo=Csharp&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white" />&nbsp
 </div>
 
 <div align="center">
