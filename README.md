@@ -1,5 +1,8 @@
 <!--헤드 부분-->
-![header](https://capsule-render.vercel.app/api?type=waving&color=4B89DC&height=250&section=header&text=Welcome!&fontSize=100&)
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=4B89DC&height=250&section=header&text=Welcome!&fontSize=100&" />
+</div>
+
 <!--내용 부분-->
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
