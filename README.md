@@ -64,7 +64,5 @@
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center">
   <a href="mailto:atropic159@hanyang.ac.kr">
-    <img
-      src="https://img.shields.io/badge/atropic159@hanyang.ac.kr-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
-  </a>
+    <img src="https://img.shields.io/badge/atropic159@hanyang.ac.kr-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
 </div>
