@@ -61,6 +61,16 @@
 
 <br>
 
+<div>
+  <h2 align="center">etc</h2>
+
+  <div align="center">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ss721229"/>
+  </div>
+<div align="center">
+  <a href="https://github.com/devxb/gitanimals"><img src="https://render.gitanimals.org/farms/ss721229"/ ></a>
+</div>
+
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center">
   <a href="mailto:atropic159@hanyang.ac.kr">
