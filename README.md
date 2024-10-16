@@ -75,5 +75,6 @@
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center">
   <a href="mailto:atropic159@hanyang.ac.kr">
+    <a href="https://velog.io/@atropic159"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@atropic159"/></a>
     <img src="https://img.shields.io/badge/atropic159@hanyang.ac.kr-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
 </div>
